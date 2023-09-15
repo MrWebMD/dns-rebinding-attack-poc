@@ -1,0 +1,4 @@
+{
+  "ts-node": { "files": true },
+  "files": ["index.d.ts", "index.ts", "utils.ts"]
+}
